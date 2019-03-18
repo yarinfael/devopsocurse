@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="830716a4-9471-4d62-9af8-26149d27691a" name="Default Changelist" comment="commit">
-      <change afterPath="$PROJECT_DIR$/BuyMe/bmtest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuyMe/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/BuyMe/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,21 +11,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BuyMe/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="92" column="101" selection-start-line="92" selection-start-column="101" selection-end-line="92" selection-end-column="101" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BuyMe/bmtest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+            <state relative-caret-position="341">
+              <caret line="93" column="13" selection-start-line="93" selection-start-column="13" selection-end-line="93" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -91,9 +82,9 @@
         <option value="$PROJECT_DIR$/NICE/checkagent.py" />
         <option value="$PROJECT_DIR$/NICE/checkpath.py" />
         <option value="$PROJECT_DIR$/newfiletest" />
-        <option value="$PROJECT_DIR$/BuyMe/main.py" />
         <option value="$PROJECT_DIR$/pythonfile.py" />
         <option value="$PROJECT_DIR$/BuyMe/bmtest.py" />
+        <option value="$PROJECT_DIR$/BuyMe/main.py" />
       </list>
     </option>
   </component>
@@ -269,11 +260,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.checkpath" />
         <item itemvalue="Python.steps" />
         <item itemvalue="Python.selenium_test (1)" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.HW (1)" />
+        <item itemvalue="Python.checkpath" />
       </list>
     </recent_temporary>
   </component>
@@ -294,7 +285,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18456884" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18456884" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -305,8 +296,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49924356" visible="true" weight="0.22422259" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50075644" side_tool="true" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49848714" visible="true" weight="0.22422259" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5015129" side_tool="true" weight="0.22422259" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -490,27 +481,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/NICE/checkagent.py" />
     <entry file="file://$PROJECT_DIR$/NICE/checkpath.py" />
-    <entry file="file://$PROJECT_DIR$/newfiletest">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="4" selection-start-column="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonfile.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/newfiletest" />
+    <entry file="file://$PROJECT_DIR$/pythonfile.py" />
+    <entry file="file://$PROJECT_DIR$/BuyMe/bmtest.py" />
     <entry file="file://$PROJECT_DIR$/BuyMe/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="92" column="101" selection-start-line="92" selection-start-column="101" selection-end-line="92" selection-end-column="101" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BuyMe/bmtest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+        <state relative-caret-position="341">
+          <caret line="93" column="13" selection-start-line="93" selection-start-column="13" selection-end-line="93" selection-end-column="13" />
         </state>
       </provider>
     </entry>
