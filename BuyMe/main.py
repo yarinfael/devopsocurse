@@ -91,4 +91,3 @@ entermob.send_keys('0522600199')
 entermob.send_keys(Keys.ENTER)
 
 driver.find_element_by_xpath("//div[@class='submit-wrapper']/button[@class='btn btn-theme']").click()
-# print()
