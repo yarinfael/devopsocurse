@@ -14,7 +14,7 @@
         <entry file="file://$PROJECT_DIR$/BuyMe/main.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="324">
-              <caret line="93" column="9" selection-start-line="93" selection-start-column="9" selection-end-line="93" selection-end-column="9" />
+              <caret line="92" column="101" selection-start-line="92" selection-start-column="101" selection-end-line="92" selection-end-column="101" />
             </state>
           </provider>
         </entry>
@@ -79,8 +79,9 @@
         <option value="$PROJECT_DIR$/BuyMe/steps.py" />
         <option value="$PROJECT_DIR$/NICE/checkagent.py" />
         <option value="$PROJECT_DIR$/NICE/checkpath.py" />
-        <option value="$PROJECT_DIR$/BuyMe/main.py" />
         <option value="$PROJECT_DIR$/newfiletest" />
+        <option value="$PROJECT_DIR$/BuyMe/main.py" />
+        <option value="$PROJECT_DIR$/pythonfile.py" />
       </list>
     </option>
   </component>
@@ -479,10 +480,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pythonfile.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/BuyMe/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
-          <caret line="93" column="9" selection-start-line="93" selection-start-column="9" selection-end-line="93" selection-end-column="9" />
+          <caret line="92" column="101" selection-start-line="92" selection-start-column="101" selection-end-line="92" selection-end-column="101" />
         </state>
       </provider>
     </entry>
